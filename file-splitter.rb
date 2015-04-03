@@ -34,5 +34,3 @@ class SplitCodeSection
   end
 
 end
-
-SplitCodeSection.new "#{File.dirname(__FILE__)}/example/test.rb"

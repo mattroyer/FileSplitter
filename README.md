@@ -5,6 +5,6 @@ I normally keep `test` files for languages I'm using so I have quick access to s
 
 After cleaning up a lot of the code in the `example/test.rb` file (there was a bunch of frivolous snippets), I ran it against the file splitter.
 
-----
+##### Example
 
-**NOTE:** Need to make this better, but for now the `example/test.rb` file is hard coded into the `file-spliter.rb` file.
+`SplitCodeSection.new "#{File.dirname(__FILE__)}/example/test.rb"`
